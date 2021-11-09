@@ -1,0 +1,122 @@
+/* google fonts */
+    /* nunito */
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background: #3282B8;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+img{
+    width: 4rem;
+    height: 4rem;
+    top: 10px;
+    left: 10px;
+    border-radius: 0;
+}
+.img{
+    position: fixed;
+}
+#title{
+    text-align: center;
+    padding: 0.8rem 0;
+    font-size: 3rem;
+    color: rgb(255, 255, 255);
+    background: #0F4C75;
+    font-family: nunito, verdana, helvetica, arial, sans-serif;
+}
+.questions{
+    margin: 3rem auto;
+    width: 90vw;
+    padding: 2rem;
+    background: rgb(255, 255, 255);
+    cursor: default;
+    border-radius: 1rem;
+    box-shadow: 0px 0px 20px 5px;
+}
+#question{
+    margin-bottom: 1rem;
+    font-family: nunito, verdana, arial, sans-serif;
+}
+.option{
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+    border: 2px solid grey;
+    width: 15rem;
+    background: rgb(255, 255, 255);
+    border-radius: 1rem;
+}
+.option:hover{
+    border: 2px solid black;
+}
+ol{
+    position: relative;
+    padding: 0 1.5rem;
+    color: rgb(1,73,73);
+}
+span{
+    display: block;
+    padding: 0.1rem 0.7rem;
+    border-radius: 1rem;
+}
+#answer{
+    margin-top: 2.5rem;
+}
+#stat{
+    margin-top: 1.5rem;
+    color: rgb(2, 0, 29);
+}
+.buttons{
+    text-align: center;
+}
+button{
+    padding: 0.2rem 1.5rem;
+    border: 3px solid rgb(44, 44, 44);
+    outline: none;
+    font-size: 2rem;
+    border-radius: 1.5rem;
+    color: rgba(20, 20, 20, 0.98);
+    background: #BBE1FA;
+}
+button:hover{
+    border: 3px solid rgb(0, 0, 0);
+    cursor: pointer;
+}
+button:active{
+    color: black;
+}
+#scoreboard,#answerBank{
+    width: 20rem;
+    background: rgba(230,230,250,0.77);
+    padding: 2rem;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: 5rem;
+    display: none;
+}
+#score-title{
+    margin: 1rem 0;
+}
+#score-btn,#check-answer{
+    margin-top: 1rem;
+}
+#score{
+    font-size: 2.5rem;
+}
+#answerBank li{
+    text-align: left;
+    margin-bottom: 0.2rem;
+    font-size: larger;
+}
+#answers{
+    margin-top: 1rem;
+}
