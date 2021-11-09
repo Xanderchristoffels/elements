@@ -200,7 +200,7 @@ var questionBank= [
     {
         question : 'lithium',
         option : ['Li','Lt','Lh','Lu'],
-        answer : ''
+        answer : 'Li'
     },
 
     
