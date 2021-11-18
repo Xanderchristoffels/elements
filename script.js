@@ -202,6 +202,266 @@ var questionBank= [
         option : ['Li','Lt','Lh','Lu'],
         answer : 'Li'
     },
+    {
+        question : 'He',
+        option : ['Berylium','Helium','Koolstof','Goud'],
+        answer : 'Helium'
+    },
+    {
+        question : 'berylium',
+        option : ['Be', 'Ba','By','S'],
+        answer : 'Be'
+    },
+    {
+        question : 'magnesium',
+        option : ['Ma','Mn','Gn','Mg'],
+        answer : 'Mg'
+    },
+    {
+        question : 'Si',
+        option : ['Zink','Lood','Silicium','Koper'],
+        answer : 'Silicium'
+    },
+    {
+        question : 'uraan',
+        option : ['U','Ur','Ua','Un'],
+        answer : 'U'
+    },
+    {
+        question : 'S',
+        option : ['Fosfor','Zwavel','Silicium','Koolstof'],
+        answer : 'Zwavel'
+    },
+    {
+        question : 'lithium',
+        option : ['Li','Lt','Lh','Lu'],
+        answer : 'Li'
+    },
+    {
+        question : 'Cr',
+        option : ['Chroom','Chloor','Cadmium','Kalium'],
+        answer : 'Chroom'
+    },
+    {
+        question : 'Rn',
+        option : ['Arseen','Argon','Platina','Radon'],
+        answer : 'Radon'
+    },
+    {
+        question : 'stikstof',
+        option : ['St','N','Si','F'],
+        answer : 'N'
+    },
+    {
+        question : 'Li',
+        option : ['Lithium','Platina','Koper','Lood'],
+        answer : 'Lithium'
+    },
+    {
+        question : 'lithium',
+        option : ['Li','Lt','Lh','Lu'],
+        answer : 'Li'
+    },
+    {
+        question : 'Ne',
+        option : ['Nikkel','Natrium','Neon','Argon'],
+        answer : 'Ne'
+    },
+    {
+        question : 'platina',
+        option : ['Pl','Pa','P','Pt'],
+        answer : 'Pt'
+    },
+    {
+        question : 'silicium',
+        option : ['Si','S','F','Ar'],
+        answer : 'Si'
+    },
+    {
+        question : 'B',
+        option : ['Broom','Boor','Barium','Berylium'],
+        answer : 'Boor'
+    },
+    {
+        question : 'Ca',
+        option : ['Cadmium','Kalium','Calcium','Barium'],
+        answer : 'Calcium'
+    },
+    {
+        question : 'mangaan',
+        option : ['Ma','Mn','Mg','M'],
+        answer : 'Mn'
+    },
+    {
+        question : 'Pb',
+        option : ['Lood','Jood','Kwik','Berylium'],
+        answer : 'Lood'
+    },
+    {
+        question : 'O',
+        option : ['Koolstof','Waterstof','Mangaan','Zuurstof'],
+        answer : 'Zuurstof'
+    },
+    {
+        question : 'zink',
+        option : ['Z','Sn','Zn','L'],
+        answer : 'Zn'
+    },
+    {
+        question : 'Ag',
+        option : ['Kwik','Zilver','Goud','Argon'],
+        answer : 'Zilver'
+    },
+    {
+        question : 'xenon',
+        option : ['X','Xn','Xe','E'],
+        answer : 'Xe'
+    },
+    {
+        question : 'waterstof',
+        option : ['H','W','Ws','Lu'],
+        answer : 'H'
+    },
+    {
+        question : 'U',
+        option : ['Waterstof','Lithium','Tin','Uraan'],
+        answer : 'Uraan'
+    },
+    {
+        question : 'Sn',
+        option : ['Tin','Zink','Silicium','Lithium'],
+        answer : 'Tin'
+    },
+    {
+        question : 'Al',
+        option : ['Argon','Aluminium','Arseen','Radon'],
+        answer : 'Aluminium'
+    },
+    {
+        question : 'arseen',
+        option : ['As','Ar','Ra','Ae'],
+        answer : 'As'
+    },
+    {
+        question : 'C',
+        option : ['Koolstof','Waterstof','Zuurstof','Koper'],
+        answer : 'Koolstof'
+    },
+    {
+        question : 'N',
+        option : ['Nikkel','Neon','Stikstof','Tin'],
+        answer : 'Stikstof'
+    },
+    {
+        question : 'radon',
+        option : ['Rn','As','Ra','Ad'],
+        answer : 'Rn'
+    },
+    {
+        question : 'Pt',
+        option : ['Aluminium','Platina','Stikstof','Argon'],
+        answer : 'Platina'
+    },
+    {
+        question : 'nikkel',
+        option : ['N','Ne','Nk','Ni'],
+        answer : 'Ni'
+    },
+    {
+        question : 'neon',
+        option : ['Ni','Nk','Ne','N'],
+        answer : 'Ne'
+    },
+    {
+        question : 'Na',
+        option : ['Natrium','Barium','Neon','Nikkel'],
+        answer : 'Natrium'
+    },
+    {
+        question : 'kwik',
+        option : ['K','Ag','Hg','Sn'],
+        answer : 'Hg'
+    },
+    {
+        question : 'Kr',
+        option : ['Krypton','Kalium','Kobalt','Cadmium'],
+        answer : 'Krypton'
+    },
+    {
+        question : 'Ni',
+        option : ['Neon','Natrium','Krypton','Nikkel'],
+        answer : 'Nikkel'
+    },
+    {
+        question : 'koper',
+        option : ['Ko','Co','Kp','Cu'],
+        answer : 'Cu'
+    },
+    {
+        question : 'kalium',
+        option : ['Ca','Ka','Li','K'],
+        answer : 'K'
+    },
+    {
+        question : 'jood',
+        option : ['Jo','I','J','Cu'],
+        answer : 'I'
+    },
+    {
+        question : 'helium',
+        option : ['He','H','Hl','Hi'],
+        answer : 'He'
+    },
+    {
+        question : 'Au',
+        option : ['Lood','Krypton','Zink','Goud'],
+        answer : 'Goud'
+    },
+    {
+        question : 'fosfor',
+        option : ['F','Fo','P','Fs'],
+        answer : 'P'
+    },
+    {
+        question : 'fluor',
+        option : ['Fs','P','Fo','F'],
+        answer : 'F'
+    },
+    {
+        question : 'chroom',
+        option : ['Cr','Ch','Co','K'],
+        answer : 'Cr'
+    },
+    {
+        question : 'chloor',
+        option : ['Ch','Cl','Co','K'],
+        answer : 'Cl'
+    },
+    {
+        question : 'Cd',
+        option : ['Calcium','Kalium','Kwik','Cadmium'],
+        answer : 'Cadmium'
+    },
+    {
+        question : 'broom',
+        option : ['B','Br','Bm','Li'],
+        answer : 'Br'
+    },
+    {
+        question : 'boor',
+        option : ['B','Bo','Br','C'],
+        answer : 'B'
+    },
+    {
+        question : 'barium',
+        option : ['B','Br','Bo','Ba'],
+        answer : 'Ba'
+    },
+    {
+        question : 'Ar',
+        option : ['Arseen','Radon','Argon','Aluminium'],
+        answer : 'Argon'
+    },
 
     
 ]
